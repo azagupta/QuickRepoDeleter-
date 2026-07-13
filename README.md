@@ -4,8 +4,6 @@
 
 Bulk-delete GitHub repositories from a single page. Sign in with a personal access token, multi-select repos, confirm once, they're gone.
 
-**Live tool:** _add your GitHub Pages link here once deployed_
-
 > Note: the actual file in this repo is named `index.html`, not `QuickRepoDeleter.html`. That's intentional — GitHub Pages only auto-serves a file called exactly `index.html` at a repo's root. Keep that filename or your Pages link 404s and needs the filename typed on the end. `QuickRepoDeleter` is the project's name, not the file's.
 
 ## Why this exists
