@@ -60,14 +60,6 @@ Also video files in `demos/` folder in the repo (needs to be downloaded). GitHub
 - A confirmation modal lists every repo you're about to delete and requires typing `DELETE` before it will proceed.
 - Deleting a repo removes its issues, pull requests, wiki, and stars along with it.
 
-## Trust and verification
-
-This page asks for a token with delete rights on your repos. That is a legitimate reason to be suspicious of any page that asks for it, including this one. Before pasting a token in:
-
-- Read `index.html` in this repo. It's a single file, plain JavaScript, no build step, no obfuscation. Every network call it makes is visible in the source.
-- Confirm it only calls `api.github.com`.
-- If you don't want to trust the hosted version, clone the repo and run it locally instead (see below).
-
 ## Running locally
 
 Keep `index.html` in your **Downloads** folder. That's the default location every terminal opens near, so you don't have to hunt for it or move it around — and if you ever want it gone, it's just a normal file to delete, no uninstall needed.
