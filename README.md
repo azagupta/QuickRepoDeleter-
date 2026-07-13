@@ -1,5 +1,7 @@
 # QuickRepoDeleter
 
+> **Disclaimer:** This tool permanently deletes GitHub repositories with no way to undo it. Use it at your own risk. The author is not responsible for any data loss, deleted repositories, or other damages resulting from use of this tool — verify your selections carefully before confirming. This project is provided "as is," with no warranty of any kind, per the MIT license.
+
 Bulk-delete GitHub repositories from a single page. Sign in with a personal access token, multi-select repos, confirm once, they're gone.
 
 **Live tool:** _add your GitHub Pages link here once deployed_
@@ -53,10 +55,6 @@ GitHub doesn't make bulk deletion easy — it's one-by-one through Settings, or 
 
 Also video files in `demos/` folder in the repo (needs to be downloaded). GitHub renders an inline video player automatically for `.mp4`/`.mov` files referenced with a normal markdown link when they're committed to the repo:
 
-```markdown
-[Watch: working on Windows](demos/working-on-windows.mp4)
-[Watch: working on Mac](demos/working-on-mac.mov)
-```
 
 ## Safety
 
