@@ -32,6 +32,7 @@ GitHub doesn't make bulk deletion easy — it's one-by-one through Settings, or 
 2. Give it a name you'll recognize later, set an expiration.
    ![Name the token](screenshots/2_Name_it_something_u_will_remewmber.png)
 3. Check the top-level **`repo`** box (full control of private repositories). This is what makes private repos show up in the list — `delete_repo` alone will not.
+
    ![Check repo scope](screenshots/3_repo_scope.png)
 4. Scroll down and also check **`delete_repo`**.
    ![Check delete_repo scope](screenshots/3_delete_repo_scope.png)
