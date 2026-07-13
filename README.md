@@ -48,7 +48,7 @@ GitHub doesn't make bulk deletion easy — it's one-by-one through Settings, or 
 
 ### Video demos
 
-- `demos/working-on-windows.mp4` — full flow on Windows
+- `https://www.image2url.com/r2/default/videos/1783972289719-404fc975-50b5-4014-ba7c-6110b89b0531.mp4` — full flow on Windows
 - `demos/working-on-mac.mov` — full flow on Mac
 
 Drop both video files into a `demos/` folder in the repo. GitHub renders an inline video player automatically for `.mp4`/`.mov` files referenced with a normal markdown link when they're committed to the repo:
