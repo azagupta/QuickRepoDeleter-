@@ -37,7 +37,7 @@ GitHub doesn't make bulk deletion easy — it's one-by-one through Settings, or 
    ![Check delete_repo scope](screenshots/3_delete_repo_scope.png)
 5. Click **Generate token**.
    ![Press generate token](screenshots/4_press_generate_token.png)
-6. Copy the token immediately — GitHub only shows it once. Store it somewhere safe and never post it anywhere public, including chat, forums, or commit history.
+6. Copy the token immediately and note it down somwhere. Store it somewhere safe and never post it anywhere public, including chat, forums, or commit history.
    ![Token created](screenshots/5_token_created.png)
 7. In a terminal, `cd` to wherever you saved `index.html` (Downloads by default), run `python -m http.server 8000` (or `python3` on Mac), then open `http://localhost:8000/index.html` in your browser. Paste the token into the Authenticate field.
    ![Run server and authenticate](screenshots/6_run_server_authenticate.png)
