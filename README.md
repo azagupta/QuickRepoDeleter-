@@ -8,8 +8,7 @@ Bulk-delete GitHub repositories from a single page. Sign in with a personal acce
 
 ## Why this exists
 
-GitHub has no built-in way to delete more than one repo at a time — it's one-by-one through Settings, or a CLI script. This is a UI for people who want to see what they're deleting before they delete it.
-
+GitHub doesn't make bulk deletion easy — it's one-by-one through Settings, or writing your own CLI script. Both are more hassle than they should be, so I built a UI that shows exactly what you're about to delete before you delete it.
 ## How it works
 
 - Runs entirely in your browser. No backend, no server, nothing stored.
